@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    background-image: url(Img/Magellanic.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+}
+header {
+    background-color;
+    height: 0px;
+    width: 0px;
+
+}
+
+nav {
+    background-color:rgba(128, 128, 128, 0.05);
+    height: 0px;
+    width: 0px;
+}
+
+main {
+    background-color:rgba(128, 128, 128, 0.05)
+    height: 0px:
+    width: auto;
+    text-align: center;
+}
+
+footer {
+    background-color:rgba(128, 128, 128, 0.749);
+    height: 35px;
+    width: auto;
+    font-size: 10px;
+    text-align: center;
+
+}
+
+h1{
+    font-size: 84px;
+    color: white;
+    font-family: Garamond, Georgia, serif; 
+    
+
+}
